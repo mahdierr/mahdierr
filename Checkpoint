@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+
+      <head>
+             <title>Checkpoint</title>
+             <meta name="description" content="" >
+      </head>
+<body>
+<Section>
+  <ul> 
+      <li>Home</li>
+      <li>About</li>
+      <li>Work</li>
+      <li>Resume</li>
+      <li>Contact</li>
+  </ul>
+</Section>
+
+ <a href="Home">Home</a>
+ <a href="About">About</a>
+ <a href="Work">Work</a>
+ <a href="Resume">Resume</a>
+ <a href="Contact">Contact</a>
+
+<p audio src="Audio.mp3" controls type="audio/mp3"> </audio></p>
+<p video src="Video.mp4" controls type="video/mp4" width="480"></video></p>
+
+<p>
+  <Table>
+          <tr>
+                  <th> </th>
+                  <th> </th>
+          </tr>        
+          <tr>
+                  <td> </td>
+                  <td> </td>
+          </tr>     
+          <tr>
+                  <td> </td>
+                  <td> </td>
+          </tr>        
+  </Table>
+</p>
+
+<form>
+       <Label>Contact</label>
+       <input name="Contact"><br>
+</form>
+</body>
+</html>
